@@ -1,7 +1,7 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:1f425f&height=200&section=header&text=Salah+Eddine+El+Manssouri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,100:1a1a1a&height=200&section=header&text=Salah+Eddine+El+Manssouri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f425f,100:6A1B9A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,100:1a1a1a&height=120&section=footer"/>
 </p>
