@@ -5,13 +5,14 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A1B9A&center=true&vCenter=true&width=750&lines=MSc+Cybersecurity+Management;Application+Security+%7C+Detection+Engineering;Security+Automation+%7C+Risk+Modeling;Building+Practical+Security+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A1B9A&center=true&vCenter=true&width=750&lines=MSc+Cybersecurity+Management;Application+Security+Engineer+(Aspiring);AI+%2B+Security+Systems+Builder;Vibe+Coding+Developer" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Security%20Roles-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Vilnius%2C%20Lithuania-1f425f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Application%20Security-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-AI%20%2B%20Security-orange?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Laugerr&style=for-the-badge&color=6A1B9A" />
 </p>
 
@@ -22,7 +23,7 @@
 <p align="center">
 
 <a href="https://laugerr.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌍 Portfolio-Visit-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/salah-eddine-el-manssouri-6a56b3192/" target="_blank">
@@ -31,10 +32,6 @@
 
 <a href="mailto:salaheddineelmanssourii@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/salahedinelmanssouri/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="tel:+37060739240">
@@ -47,54 +44,96 @@
 
 ## 👨‍💻 Professional Summary
 
-Cybersecurity Management MSc candidate with a strong focus on **Application Security, Detection Engineering, and structured risk analysis**.
+🎓 MSc Cybersecurity Management student focused on **Application Security, AI-driven systems, and Risk Modeling**.
 
-I design and build practical security tools that simulate real-world security workflows:
+I build **real-world security and interactive systems** combining:
 
-- 🔐 Secure configuration auditing  
-- 🛡 Detection logic & correlation modeling  
-- 📊 Risk classification engines  
-- ⚙️ Security automation & reporting  
+- 🔐 Application Security & misconfiguration detection  
+- 🧠 AI-powered simulations & decision engines  
+- 🛡 Detection logic & behavioral modeling  
+- 📊 Risk scoring & system-based thinking  
 
-My goal is to contribute to a professional Security or Application Security team in the EU.
+💡 I focus on **building systems, not just scripts**.
 
----
-
-## 🔥 Featured Security Projects
-
-### 🛡 Personal Vulnerability Scanner (PVS)
-
-Lightweight AppSec CLI tool that performs passive web security assessments.
-
-**Capabilities:**
-- Security header validation (CSP, HSTS, etc.)
-- Cookie security analysis
-- Controlled exposure discovery
-- Structured JSON reporting
-- Professional HTML reports
-- CI/CD integration
-- Unit-tested detection modules
-
-🔗 https://github.com/Laugerr/Personal-Vulnerability-Scanner
+🎯 Currently seeking **Application Security / Security Engineer roles in Europe**.
 
 ---
 
-### 🛡 SOC Lab – SSH Brute-Force Detection Engine
+## 🚀 Featured AI & Security Systems
 
-Detection engineering project simulating SOC time-window correlation logic.
+### 🧠 AI Phishing Detection Simulator (PhishNyx AI)
 
-**Capabilities:**
-- Log parsing & attack pattern detection
-- Time-window brute-force analysis
-- Risk classification model
-- CSV & SIEM-ready JSONL export
-- MITRE ATT&CK mapping (T1110)
+Interactive platform designed to **train users to detect phishing attacks** using AI-generated scenarios.
 
-🔗 https://github.com/Laugerr/SOC-Lab-BruteForce-Detection
+**Key Features:**
+- Realistic phishing email & URL simulation  
+- AI-generated attack scenarios  
+- User decision tracking & scoring system  
+- Risk feedback & learning insights  
+- Expandable threat dataset  
+
+📌 *Focus: Human-layer security (largest attack vector)*
+
+🔗 https://github.com/Laugerr/PhishNyx-AI
 
 ---
 
-## 🧰 Technical Competencies
+### 🎮 Life Simulator AI (Moire AI)
+
+AI-powered life simulation system inspired by BitLife with **continuous decision-based progression**.
+
+**Key Features:**
+- Continuous life engine (no fixed endings)  
+- AI-generated events & scenarios  
+- Dynamic stat system (health, wealth, happiness…)  
+- Expandable world logic  
+- Designed for future mobile/web deployment  
+
+📌 *Focus: AI + system design + user interaction*
+
+🔗 https://github.com/Laugerr/Moire-AI
+
+---
+
+### 🎓 Paidevia – Learning Management System
+
+Full-stack LMS platform designed to manage **courses, users, and learning progress**.
+
+**Key Features:**
+- Role-based access (Admin / Instructor / Student)  
+- Course & lesson management system  
+- Progress tracking dashboard  
+- Authentication & database integration  
+- Scalable architecture for real-world usage  
+
+📌 *Focus: Full-stack engineering + system architecture*
+
+🔗 https://github.com/Laugerr/Paidevia
+
+---
+
+## 🧠 Currently Building
+
+- 🧪 Advanced Phishing AI Scenarios (PhishNyx AI)  
+- 🎮 Expanded Life Engine (Moire AI)  
+- 📊 Risk Analytics Dashboards (Streamlit)  
+
+---
+
+## ⚡ Development Style
+
+I actively practice **Vibe Coding** — building fast, iterating quickly, and leveraging AI-assisted development.
+
+- ⚡ Rapid prototyping with real functionality  
+- 🤖 AI-assisted coding (ChatGPT, Copilots, extensions)  
+- 🔁 Continuous iteration & feature evolution  
+- 🧩 Focus on working systems, not just concepts  
+
+📌 *Ship fast → Improve → Scale*
+
+---
+
+## 🧰 Technical Skills
 
 <p align="center">
 
@@ -105,18 +144,19 @@ Detection engineering project simulating SOC time-window correlation logic.
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SIEM-Detection-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Risk_Modeling-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Secure_Config-Auditing-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AppSec-OWASP%20Top%2010-red?style=for-the-badge"/>
 
 </p>
 
-Core Strengths:
+### Core Competencies
 
-- Application Security fundamentals (OWASP Top 10)
-- Detection engineering logic
-- Risk & threat modeling
-- Structured vulnerability reporting
-- CLI tool development
-- CI/CD with GitHub Actions
+- Application Security (OWASP Top 10)  
+- Detection Engineering (SOC logic)  
+- Threat & Risk Modeling  
+- AI-assisted Development  
+- Security Automation (Python)  
+- Full-stack system design  
+- CI/CD (GitHub Actions)  
 
 ---
 
@@ -130,6 +170,19 @@ Core Strengths:
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Laugerr&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📈 Career Vision
+
+I aim to become a **high-impact Application Security Engineer** working on:
+
+- Secure software development (SSDLC)  
+- AI-powered security systems  
+- Detection & response engineering  
+- Risk-driven security decisions  
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,100:1a1a1a&height=120&section=footer"/>
