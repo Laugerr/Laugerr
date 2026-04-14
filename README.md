@@ -1,11 +1,11 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,50:6A1B9A,100:1a1a1a&height=220&section=header&text=Salah+Eddine+El+Manssouri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application+Security+%7C+AI+Systems+%7C+Full-Stack+Engineering&descSize=16&descAlignY=58&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB300&height=220&section=header&text=Salah+Eddine+El+Manssouri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application+Security+%7C+AI+Systems+%7C+Full-Stack+Engineering&descSize=16&descAlignY=58&descColor=cccccc" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9500&center=true&vCenter=true&width=750&lines=🔐+MSc+Cybersecurity+Management;🧠+AI+%2B+Security+Systems+Builder;⚡+Application+Security+Engineer+(Aspiring);🚀+Full-Stack+Developer+%7C+Rapid+Prototyper" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB300&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+MSc+Cybersecurity+Management;%F0%9F%A7%A0+AI+%2B+Security+Systems+Builder;%E2%9A%A1+Application+Security+Engineer+(Aspiring);%F0%9F%9A%80+Full-Stack+Developer+%7C+Rapid+Prototyper" />
 </h1>
 
 <p align="center">
@@ -220,8 +220,8 @@ I combine **AI-assisted development** with strong engineering fundamentals — m
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laugerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9500&icon_color=6A1B9A" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laugerr&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9500" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laugerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FFB300&icon_color=FFB300&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Laugerr&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB300&bg_color=0d1117" />
 </p>
 
 <p align="center">
@@ -244,5 +244,5 @@ I want to work on **SSDLC implementation**, **AppSec tooling**, and **security a
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:6A1B9A,100:ff9500&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB300,100:000000&height=130&section=footer"/>
 </p>
